@@ -52,8 +52,8 @@ root
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/Shrivastavpratham/Docker_projects.git
+   cd Dockerize a MERN App
    ```
 
 2. Ensure all necessary environment variables are set up. You can refer to the [Environment Variables](#environment-variables) section.
